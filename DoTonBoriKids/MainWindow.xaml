@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <StackPanel Margin="20" >
+            <Label>DoTonBoriKids.EXE</Label>
+            <Button Width="150" Height="40" HorizontalAlignment="Left" Margin="0 20" Click="Debug" > 푸하하 눌러 보시지</Button>
+        </StackPanel>
     </Grid>
 </Window>

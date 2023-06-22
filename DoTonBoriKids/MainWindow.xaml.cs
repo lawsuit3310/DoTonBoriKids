@@ -24,5 +24,11 @@ namespace DoTonBoriKids
         {
             InitializeComponent();
         }
+
+        private void Debug(object sender, RoutedEventArgs e)
+        {
+            //MessageBox.Show("눌렀네");
+            
+        }
     }
 }
